@@ -76,6 +76,7 @@
 - [Smart.Grid](https://www.htmlelements.com/docs/grid/) - A Data Grid component which displays tabular data.
 - [SpreadJS](https://developer.mescius.com/spreadjs) - An Excel-like JavaScript spreadsheet component with no dependency on Excel, for building financial, scientific, and business applications.
 - [SVAR DataGrid](https://svar.dev/svelte/datagrid/) - A lightweight data grid component for Svelte and React with in-cell editing, sorting, filtering, virtual scrolling, pagination, and keyboard navigation.
+- [SvGrid](https://svgrid.com) - A headless-first, Svelte 5-native data grid with a batteries-included render component, offering in-cell editing, sorting, filtering, virtualization, row grouping, and tree data, with pivots and Excel/PDF export in a paid Pro pack.
 - [SyncFusion DataGrid](https://www.syncfusion.com/javascript-ui-controls/js-data-grid) - HTML5/JavaScript Grid/DataGrid is a feature-rich control for displaying data in a tabular format.
 - [TablixJS](https://github.com/ivkeapp/TablixJS) - A lightweight, dependency-free JavaScript library for building powerful, responsive data tables.
 - [Tabulator](http://tabulator.info/) - An interactive table library that builds tables from HTML tables, JavaScript arrays, AJAX sources, or JSON data.

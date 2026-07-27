@@ -1,0 +1,55 @@
+title: SvGrid
+homeUrl: https://svgrid.com
+demoUrl: https://svgrid.com/demos
+githubRepo: sv-grid/sv-grid
+npmPackage: "@svgrid/grid"
+license: MIT or Commercial License
+revenueModel: Freemium
+description: >
+  A headless-first, Svelte 5-native data grid engine with a
+  batteries-included render component. The MIT core covers in-cell
+  editing, sorting, filtering, virtualization, row grouping and
+  aggregation, tree data, formulas, server-side data, and CSV export,
+  while pivot tables and Excel/PDF export are part of the paid
+  @svgrid/enterprise pack.
+
+frameworks:
+  svelte: true
+  vanilla: https://www.npmjs.com/package/@svgrid/grid-wc
+
+features:
+  accessible: true
+  copyPaste: true
+  csvExport: true
+  customEditors: true
+  customFormatters: true
+  draggableRows: true
+  editable: true
+  fillDown: true
+  fillRight: true
+  filtering: true
+  formulas: true
+  freezableCols: true
+  headless: true
+  i18n: true
+  maintained: true
+  mergeCells: true
+  openSource: true
+  pagination: true
+  pdfExport: Pro feature
+  pivots: Pro feature
+  rangeSelection: true
+  resizableCols: true
+  responsive: true
+  rowGrouping: true
+  rowPinning: true
+  rowSelection: true
+  search: true
+  serverSide: true
+  sorting: true
+  sparklines: true
+  theming: true
+  trees: true
+  typescript: true
+  xlsxExport: Pro feature
+  virtualization: true
