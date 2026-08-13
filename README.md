@@ -53,6 +53,7 @@
 - [Kendo UI Spreadsheet](https://www.telerik.com/kendo-ui/spreadsheet) - Kendo UI's Spreadsheet allows you to edit and visualize tabular data by using cell formatting options, styles, and themes.
 - [KendoReact Data Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - A React data grid with 100+ features including paging, sorting, filtering, editing, grouping, virtualization, accessibility, and export to PDF and Excel.
 - [Lemonade Data Grid](https://lemonadejs.net/components/data-grid) - The LemonadeJS data grid is a lightweight and highly customizable JavaScript component that provides a solution for rendering data in rows and columns.
+- [LogiSheets](https://www.logisheets.com) - An out-of-the-box web spreadsheet component that reads and writes real .xlsx files in the browser or Node.js, with canvas rendering, live formulas and structured data blocks.
 - [LyteNyte Grid](https://www.1771technologies.com/) - A ~40 KB, zero-dependency React data grid engineered for high performance and enterprise-scale datasets.
 - [Mantine React Table](https://www.mantine-react-table.com/) - A fully featured Mantine V7 implementation of TanStack React Table V8, forked from Material React Table.
 - [Material React Table](https://www.material-react-table.com/) - A fully featured Material UI V6 implementation of TanStack React Table V8, written from the ground up in TypeScript.
