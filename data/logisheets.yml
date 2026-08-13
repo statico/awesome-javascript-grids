@@ -1,0 +1,54 @@
+title: LogiSheets
+homeUrl: https://www.logisheets.com
+demoUrl: https://www.logisheets.com
+githubRepo: logisky/LogiSheets
+npmPackage: logisheets-engine
+license: MIT License
+revenueModel: Free
+description: >
+  An out-of-the-box web spreadsheet component with a Rust and WebAssembly
+  engine that reads and writes real .xlsx files (preserving formulas and
+  styles) in the browser or Node.js. The ready-to-embed engine renders on
+  an OffscreenCanvas in a Web Worker, ships with multi-sheet tabs, live
+  formulas with dependency-tracked recalculation, find, CSV export, and a
+  "Blocks" structured-data system, and drops into any web app as a compiled
+  bundle.
+frameworks:
+  vanilla: true
+  svelte: true
+features:
+  accessible: false
+  copyPaste: false
+  csvExport: true
+  customEditors: true
+  customFormatters: true
+  draggableRows: false
+  editable: true
+  fillDown: false
+  fillRight: false
+  filtering: true
+  formulas: true
+  freezableCols: true
+  headless: false
+  i18n: false
+  maintained: true
+  mergeCells: true
+  openSource: true
+  pagination: false
+  pdfExport: false
+  pivots: false
+  rangeSelection: true
+  resizableCols: true
+  responsive: false
+  rowGrouping: false
+  rowPinning: false
+  rowSelection: true
+  search: true
+  serverSide: false
+  sorting: true
+  sparklines: false
+  theming: false
+  trees: false
+  typescript: true
+  xlsxExport: true
+  virtualization: true
