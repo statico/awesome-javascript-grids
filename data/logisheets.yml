@@ -28,7 +28,7 @@ features:
   fillRight: false
   filtering: true
   formulas: true
-  freezableCols: true
+  freezableCols: false
   headless: false
   i18n: false
   maintained: true
