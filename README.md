@@ -91,6 +91,7 @@
 - [Webix Grid](https://grid.webix.com) - A JavaScript data grid with a rich API and extensive customization options.
 - [Wijmo FlexGrid](https://www.grapecity.com/wijmo/flexgrid-javascript-data-grid) - A JavaScript data grid component with editing, sorting, filtering, grouping, and Excel-style features, with support for major frameworks.
 - [Wijmo Grid](https://www.grapecity.com/wijmo) - Enterprise-grade JavaScript data grid component by GrapeCity.
+- [xexcel](https://ximing.github.io/xexcel/) - An embeddable Excel-style spreadsheet with a State, Transaction, and Plugin architecture, a formula engine, and xlsx/CSV interoperability.
 - [ZingGrid](https://www.zinggrid.com/) - A JavaScript Web Component data grid and table library built with ES6 and native web components.
 
 ## Motivation
