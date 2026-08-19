@@ -1,0 +1,51 @@
+title: xexcel
+homeUrl: https://ximing.github.io/xexcel/
+demoUrl: https://ximing.github.io/xexcel/
+githubRepo: ximing/xexcel
+npmPackage: "@xexcel/react"
+license: MIT License
+revenueModel: Free
+description: >
+  An embeddable Excel-style spreadsheet with a State, Transaction, and
+  Plugin architecture (inspired by ProseMirror). It ships a DOM-free formula
+  engine, xlsx/CSV import and export, multi-sheet workbooks, and a React
+  shell that drops in as <ExcelEditor/>.
+frameworks:
+  react: true
+  vanilla: true
+features:
+  accessible: false
+  copyPaste: true
+  csvExport: true
+  customEditors: false
+  customFormatters: true
+  draggableRows: false
+  editable: true
+  fillDown: true
+  fillRight: true
+  filtering: true
+  formulas: true
+  freezableCols: true
+  headless: false
+  i18n: true
+  maintained: true
+  mergeCells: true
+  openSource: true
+  pagination: false
+  pdfExport: false
+  pivots: false
+  rangeSelection: true
+  resizableCols: true
+  responsive: false
+  rowGrouping: false
+  rowPinning: false
+  rowSelection: true
+  search: true
+  serverSide: false
+  sorting: true
+  sparklines: false
+  theming: false
+  trees: false
+  typescript: true
+  xlsxExport: true
+  virtualization: true
