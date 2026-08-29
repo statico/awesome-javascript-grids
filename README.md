@@ -47,6 +47,8 @@
 - [jQWidgets](https://www.jqwidgets.com/) - A comprehensive JavaScript UI library with 70+ widgets built entirely from scratch.
 - [Jspreadsheet CE](https://bossanova.uk/jspreadsheet/v4) - A lightweight vanilla JavaScript plugin (formerly Jexcel) to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet softwares.
 - [Jspreadsheet Pro](https://jspreadsheet.com) - Jspreadsheet is a lightweight Vanilla JavaScript plugin that help developers to create exceptional web-based interactive data grid with spreadsheet controls.
+- [KanuniLabs DataGrid](https://kanunilabs.com/datagrid) - A data grid for React and vanilla JavaScript with sorting, filtering and grouping in an embedded Web Worker.
+- [KanuniLabs PivotGrid](https://kanunilabs.com/pivotgrid) - A React pivot table with a Web Worker engine, drag-and-drop field areas and a free tier that includes the pivot core.
 - [Kendo UI for Angular](https://www.telerik.com/kendo-angular-ui/components/grid/) - An Angular data grid with 100+ features including paging, sorting, filtering, editing, grouping, virtualization, accessibility, and export to PDF and Excel.
 - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/grid/) - A Vue data grid with 100+ features including paging, sorting, filtering, editing, grouping, virtualization, accessibility, and export to PDF and Excel.
 - [Kendo UI Grid](https://www.telerik.com/kendo-ui/grid) - An HTML5 and jQuery data grid with 100+ features including paging, sorting, filtering, editing, grouping, virtualization, globalization, RTL, and export to PDF and Excel.
