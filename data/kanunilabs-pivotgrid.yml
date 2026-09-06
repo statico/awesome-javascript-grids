@@ -1,0 +1,51 @@
+title: KanuniLabs PivotGrid
+homeUrl: https://kanunilabs.com/pivotgrid
+demoUrl: https://kanunilabs.com/playground/pivotgrid
+githubRepo: null
+npmPackage: "@kanunilabs/pivotgrid-react"
+license: Proprietary
+revenueModel: Free Community tier, paid Enterprise tier
+description: >
+  A pivot table for React and vanilla JavaScript with a Web Worker engine.
+  Drag-and-drop field areas, six summary types, grouping, sorting by measure
+  and totals are in the free tier; the paid tier adds the calculated-field
+  designer, prefilter builder, drill-down, charts and styled export.
+frameworks:
+  react: true
+  vanilla: true
+features:
+  accessible: The header filter popup is fully keyboard-driven; no formal accessibility audit has been done
+  copyPaste: Copy to clipboard is in the free tier
+  csvExport: true
+  customEditors: false
+  customFormatters: true
+  draggableRows: false
+  editable: false
+  fillDown: false
+  fillRight: false
+  filtering: true
+  formulas: Calculated fields derive measures from other fields; writing them in code is free, the no-code designer is in the paid tier
+  freezableCols: Row headers and the header row are frozen by design; there is no configurable column freezing
+  headless: false
+  i18n: true
+  maintained: true
+  mergeCells: true
+  openSource: false
+  pagination: The pivot itself is not paginated; the paid drill-down grid is
+  pdfExport: Paid tier
+  pivots: true
+  rangeSelection: true
+  resizableCols: true
+  responsive: The page does not break at 375px and the grid scrolls horizontally, but there are no mobile breakpoints and the footer controls are under 40px
+  rowGrouping: true
+  rowPinning: false
+  rowSelection: true
+  search: false
+  serverSide: false
+  sorting: true
+  sparklines: false
+  theming: true
+  trees: true
+  typescript: true
+  xlsxExport: Paid tier
+  virtualization: true

@@ -1,0 +1,50 @@
+title: KanuniLabs DataGrid
+homeUrl: https://kanunilabs.com/datagrid
+demoUrl: https://kanunilabs.com/playground/datagrid
+githubRepo: null
+npmPackage: "@kanunilabs/datagrid-react"
+license: Proprietary
+revenueModel: Free Community tier, paid Enterprise tier
+description: >
+  A data grid for React and vanilla JavaScript. Sorting, filtering, grouping and
+  aggregation run in a Web Worker that is compiled into the package, so there is
+  no bundler configuration to add.
+frameworks:
+  react: true
+  vanilla: true
+features:
+  accessible: Keyboard navigation and cell focus are implemented; no formal accessibility audit has been done
+  copyPaste: Copy is in the free tier; cut and paste require the paid tier
+  csvExport: true
+  customEditors: Paid tier
+  customFormatters: true
+  draggableRows: true
+  editable: Paid tier
+  fillDown: Paid tier
+  fillRight: Paid tier
+  filtering: true
+  formulas: false
+  freezableCols: true
+  headless: false
+  i18n: true
+  maintained: true
+  mergeCells: Paid tier
+  openSource: false
+  pagination: true
+  pdfExport: Paid tier
+  pivots: false
+  rangeSelection: Paid tier
+  resizableCols: true
+  responsive: The page does not break at 375px and the grid scrolls horizontally, but there are no mobile breakpoints and most toolbar controls are under 40px
+  rowGrouping: Single level is in the free tier; multi-level grouping and group summaries require the paid tier
+  rowPinning: true
+  rowSelection: true
+  search: true
+  serverSide: Paid tier
+  sorting: true
+  sparklines: Paid tier
+  theming: true
+  trees: Paid tier
+  typescript: true
+  xlsxExport: Paid tier
+  virtualization: true
