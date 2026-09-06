@@ -6,12 +6,13 @@ npmPackage: "@kanunilabs/pivotgrid-react"
 license: Proprietary
 revenueModel: Free Community tier, paid Enterprise tier
 description: >
-  A React pivot table with a Web Worker engine. Drag-and-drop field areas, six
-  summary types, grouping, sorting by measure and totals are in the free tier;
-  the paid tier adds the calculated-field designer, prefilter builder,
-  drill-down and styled export.
+  A pivot table for React and vanilla JavaScript with a Web Worker engine.
+  Drag-and-drop field areas, six summary types, grouping, sorting by measure
+  and totals are in the free tier; the paid tier adds the calculated-field
+  designer, prefilter builder, drill-down, charts and styled export.
 frameworks:
   react: true
+  vanilla: true
 features:
   accessible: The header filter popup is fully keyboard-driven; no formal accessibility audit has been done
   copyPaste: Copy to clipboard is in the free tier
