@@ -4,7 +4,7 @@
 
 ## Listing criteria
 
-See [contributing.md](../contributing.md#listing-criteria). Check the one that applies and give the number or date:
+See [CONTRIBUTING.md](https://github.com/statico/awesome-javascript-grids/blob/main/CONTRIBUTING.md#listing-criteria). Check the one that applies and give the number or date:
 
 - [ ] Repo or npm package created at least 6 months ago, with a commit or release in the last 6 months (created: `YYYY-MM-DD`)
 - [ ] At least 100 GitHub stars (current: )

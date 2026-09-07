@@ -10,7 +10,7 @@
 > [View this list interactively at **jsgrids.statico.io**](https://jsgrids.statico.io) — search and filter every library below by framework, features, popularity, license, and bundle size.
 
 > [!NOTE]
-> **New listing criteria (September 2026).** Libraries submitted from now on must be at least six months old, or have real stars or downloads, and have an identifiable maintainer. See [Contributing](#contributing) below.
+> **New listing criteria (September 2026).** Libraries submitted from now on must be at least six months old, or have real stars or downloads, and have an identifiable maintainer. See the [listing criteria](CONTRIBUTING.md#listing-criteria).
 
 ## Contents
 
@@ -103,6 +103,6 @@ I build a lot of internal tools for data auditing and workflows, and every few m
 
 ## Contributing
 
-Contributions are welcome! See [contributing.md](contributing.md) for how to add a library and run the project locally.
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add a library and run the project locally.
 
-New libraries must meet the [listing criteria](contributing.md#listing-criteria): roughly, be at least six months old, or have real stars or downloads, and have an identifiable maintainer. It is now trivial to generate a plausible-looking grid library in an afternoon, and this list is about the libraries people actually use, not everything that exists.
+New libraries must meet the [listing criteria](CONTRIBUTING.md#listing-criteria): roughly, be at least six months old, or have real stars or downloads, and have an identifiable maintainer. It is now trivial to generate a plausible-looking grid library in an afternoon, and this list is about the libraries people actually use, not everything that exists.
