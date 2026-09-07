@@ -100,3 +100,5 @@ I build a lot of internal tools for data auditing and workflows, and every few m
 ## Contributing
 
 Contributions are welcome! See [contributing.md](contributing.md) for how to add a library and run the project locally.
+
+New libraries must meet the [listing criteria](contributing.md#listing-criteria): roughly, be at least six months old, or have real stars or downloads, and have an identifiable maintainer. It is now trivial to generate a plausible-looking grid library in an afternoon, and this list is about the libraries people actually use, not everything that exists.
