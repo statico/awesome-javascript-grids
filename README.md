@@ -9,6 +9,9 @@
 > [!TIP]
 > [View this list interactively at **jsgrids.statico.io**](https://jsgrids.statico.io) — search and filter every library below by framework, features, popularity, license, and bundle size.
 
+> [!NOTE]
+> **New listing criteria (September 2026).** Libraries submitted from now on must be at least six months old, or have real stars or downloads, and have an identifiable maintainer. See [Contributing](#contributing) below.
+
 ## Contents
 
 - [Libraries](#libraries)
