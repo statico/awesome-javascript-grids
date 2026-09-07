@@ -1,0 +1,44 @@
+title: snowtable
+homeUrl: https://github.com/snowpact/snowtable
+demoUrl: https://snowpact.github.io/snowtable/
+githubRepo: snowpact/snowtable
+npmPackage: "@snowpact/snowtable"
+license: MIT License
+revenueModel: Free
+description: >
+  Ultra-light, registry-based React data table wrapping TanStack Table and
+  TanStack Query behind a uniform client/server API.
+frameworks:
+  react: true
+features:
+  accessible: false
+  copyPaste: false
+  csvExport: false
+  customEditors: false
+  customFormatters: true
+  draggableRows: false
+  editable: false
+  fillDown: false
+  fillRight: false
+  filtering: true
+  formulas: false
+  freezableCols: false
+  headless: false
+  i18n: true
+  maintained: true
+  mergeCells: false
+  openSource: true
+  pagination: true
+  pdfExport: false
+  pivots: false
+  rangeSelection: false
+  resizableCols: false
+  responsive: true
+  rowGrouping: false
+  rowSelection: false
+  serverSide: true
+  sorting: true
+  trees: false
+  typescript: true
+  xlsxExport: false
+  virtualization: false

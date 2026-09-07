@@ -75,6 +75,7 @@
 - [shadcn/ui Data Table](https://ui.shadcn.com/docs/components/data-table) - Powerful table and datagrids built using TanStack Table with shadcn/ui components.
 - [SlickGrid](https://slickgrid.net/) - An open-source, client-side JavaScript grid control that binds to an external data source and is compatible with a wide range of data-centric frameworks.
 - [Smart.Grid](https://www.htmlelements.com/docs/grid/) - A Data Grid component which displays tabular data.
+- [snowtable](https://github.com/snowpact/snowtable) - Ultra-light React data table wrapping TanStack Table and TanStack Query behind a uniform client/server API.
 - [SpreadJS](https://developer.mescius.com/spreadjs) - An Excel-like JavaScript spreadsheet component with no dependency on Excel, for building financial, scientific, and business applications.
 - [SVAR DataGrid](https://svar.dev/svelte/datagrid/) - A lightweight data grid component for Svelte and React with in-cell editing, sorting, filtering, virtual scrolling, pagination, and keyboard navigation.
 - [SvGrid](https://svgrid.com) - A headless-first, Svelte 5-native data grid with a batteries-included render component, offering in-cell editing, sorting, filtering, virtualization, row grouping, and tree data, with pivots and Excel/PDF export in a paid Pro pack.
