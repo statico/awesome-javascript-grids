@@ -1,0 +1,18 @@
+name: Library edit
+description: Fix or update an existing entry (wrong features, dead link, unmaintained, etc.)
+title: "Update "
+body:
+  - type: input
+    id: library
+    attributes:
+      label: Library
+      placeholder: AG Grid
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Be as descriptive as you want. Include links that back up the change.
+    validations:
+      required: true

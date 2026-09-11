@@ -1,0 +1,73 @@
+name: New library
+description: Suggest a grid or spreadsheet library to add to the list
+title: "Add "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Pull requests are disabled. Describe the library here and it will be added for you. See the [listing criteria](https://github.com/statico/awesome-javascript-grids/blob/main/CONTRIBUTING.md#listing-criteria).
+  - type: input
+    id: url
+    attributes:
+      label: Home page
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repo and npm package
+      description: Leave blank if there is none.
+      placeholder: owner/repo, package-name
+  - type: textarea
+    id: what
+    attributes:
+      label: What is it?
+      description: One or two sentences, and the frameworks it supports.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criteria
+    attributes:
+      label: Listing criteria
+      description: The library must meet **at least one** of these. Give the number or date in the evidence field below.
+      options:
+        - label: The GitHub repo or npm package was created at least 6 months ago, and has had a commit or release in the last 6 months
+        - label: At least 100 GitHub stars
+        - label: At least 500 weekly npm downloads
+  - type: input
+    id: evidence
+    attributes:
+      label: Evidence
+      placeholder: "created 2024-03-01, 1,200 stars, 3,000 weekly downloads"
+    validations:
+      required: true
+  - type: checkboxes
+    id: maintainer-check
+    attributes:
+      label: Maintainer
+      options:
+        - label: The library has an identifiable maintainer, a person or company with a public footprint that predates the library
+          required: true
+  - type: input
+    id: maintainer
+    attributes:
+      label: Who maintains it?
+      description: A link to their existing public profile or site.
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliated
+    attributes:
+      label: Are you affiliated with this library?
+      description: Affiliation is fine, just say so.
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+  - type: textarea
+    id: features
+    attributes:
+      label: Features
+      description: Optional. Anything notable from the feature list in `lib/features.ts` (editing, virtualization, TypeScript, etc.).

@@ -1,6 +1,10 @@
 # Contributing
 
-Pull requests are welcome to help keep this list up to date.
+## Pull requests are disabled — please file an issue
+
+This project does not accept pull requests. It is faster to tell a coding agent what to change than it is to review someone else's diff, so contributions come in as descriptions rather than patches.
+
+[Open an issue](https://github.com/statico/awesome-javascript-grids/issues/new/choose) and pick **New library**, **Library edit**, or **Other**. Be as descriptive as you want; a thorough issue is worth more than a patch.
 
 ## Listing criteria
 
@@ -12,15 +16,17 @@ It is now cheap to generate a plausible-looking library in an afternoon, so new 
 
 In addition, every entry must have an **identifiable maintainer**: a person or company with a public footprint that predates the library. Closed-source products without a GitHub repo meet this through the company behind them.
 
-Entries that were listed before this rule are grandfathered. If your library does not qualify yet, wait until it does and open the PR then; it will be welcome.
+Entries that were listed before this rule are grandfathered. If your library does not qualify yet, wait until it does and open the issue then; it will be welcome.
 
 ## Adding or updating a library
+
+These are the steps a maintainer follows when acting on an issue.
 
 1. Skim `lib/features.ts` to learn the feature flags so you can describe the library's capabilities accurately.
 2. Add or edit a YAML file in `data/` — see the existing files for the schema (title, home URL, GitHub repo, npm package, license, supported frameworks, and features). This powers the interactive site.
 3. Add or update the library's entry in `README.md` by hand, keeping the list alphabetical. Separate the link and description with a dash, start the description with an uppercase letter, and end it with a period.
 4. Run `npx awesome-lint` to confirm the README still conforms to the Awesome list format.
-5. Open a pull request and fill in the template, including which listing criterion the library meets.
+5. Commit, referencing the issue so it closes.
 
 All library descriptions are adapted from each package's home page.
 

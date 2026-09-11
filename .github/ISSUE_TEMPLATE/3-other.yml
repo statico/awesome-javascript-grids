@@ -1,0 +1,10 @@
+name: Other
+description: Bugs in the site, suggestions, or anything else
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Be as descriptive as you want. There is no such thing as too much detail.
+    validations:
+      required: true
