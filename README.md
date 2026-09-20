@@ -90,6 +90,7 @@
 - [Toolbox Grid](https://toolboxjs.com) - A zero-dependency, framework-agnostic data grid web component with virtualization, sorting, filtering, editing, and 20+ plugins.
 - [Univer](https://univer.ai) - An isomorphic, full-stack framework for creating and editing spreadsheets, documents, and presentations.
 - [VanillaGrid](https://github.com/SimonWaldherr/vanillagrid.js) - A tiny dependency-free data grid library written in vanilla JavaScript with TypeScript support.
+- [Virtua](https://inokawa.github.io/virtua/) - A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [VisActor VTable](https://visactor.io/vtable) - A high-performance grid component for multidimensional data analysis and tabular visualization.
 - [w2ui](http://w2ui.com/) - A modern and intuitive JavaScript UI library for building rich data-driven web applications.
 - [Webix Grid](https://grid.webix.com) - A JavaScript data grid with a rich API and extensive customization options.

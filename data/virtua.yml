@@ -1,0 +1,49 @@
+title: Virtua
+homeUrl: https://inokawa.github.io/virtua/
+demoUrl: https://inokawa.github.io/virtua/typedoc/functions/react_VGrid.html
+githubRepo: inokawa/virtua
+npmPackage: virtua
+license: MIT License
+revenueModel: Free
+description: >
+  A zero-config, fast and small virtual list and grid component for React,
+  Vue, Solid, Svelte and Angular.
+frameworks:
+  react: true
+  vue: true
+  svelte: true
+  angular: true
+  solid: true
+features:
+  accessible: true
+  copyPaste: false
+  csvExport: false
+  customEditors: false
+  customFormatters: true
+  draggableRows: false
+  editable: false
+  fillDown: false
+  fillRight: false
+  filtering: false
+  formulas: false
+  freezableCols: true
+  headless: true
+  i18n: false
+  maintained: true
+  mergeCells: true
+  openSource: true
+  pagination: false
+  pdfExport: false
+  pivots: false
+  rangeSelection: false
+  resizableCols: false
+  responsive: false
+  rowGrouping: false
+  rowPinning: true
+  rowSelection: false
+  serverSide: false
+  sorting: false
+  trees: false
+  typescript: true
+  xlsxExport: false
+  virtualization: true
