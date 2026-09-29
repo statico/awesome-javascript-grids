@@ -4,4 +4,4 @@ minimumReleaseAge: 1440
 # Transitive deps pinned by next@16 to versions with open security advisories.
 overrides:
   postcss: ^8.5.18
-  sharp: ^0.35.3
+  sharp: ^0.35.4
