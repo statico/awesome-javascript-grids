@@ -1,0 +1,49 @@
+title: Infinite Table
+homeUrl: https://infinite-table.com
+demoUrl: https://infinite-table.com/full-demo
+githubRepo: infinite-table/infinite-react
+npmPackage: "@infinite-table/infinite-react"
+license: Commercial License
+revenueModel: Free with Attribution
+description: >
+  A modern React DataGrid with pivoting, tree data, grouping,
+  virtualization, and a declarative React API.
+frameworks:
+  react: true
+  vue: true
+features:
+  accessible: Keyboard navigation
+  copyPaste: false
+  csvExport: false
+  customEditors: true
+  customFormatters: true
+  draggableRows: false
+  editable: true
+  fillDown: false
+  fillRight: false
+  filtering: true
+  formulas: false
+  freezableCols: true
+  headless: false
+  i18n: false
+  maintained: true
+  mergeCells: false
+  openSource: true
+  pagination: Live/cursor pagination, not page widgets
+  pdfExport: false
+  pivots: true
+  rangeSelection: true
+  resizableCols: true
+  responsive: false
+  rowGrouping: true
+  rowPinning: false
+  rowSelection: true
+  search: false
+  serverSide: true
+  sorting: true
+  sparklines: false
+  theming: true
+  trees: true
+  typescript: true
+  xlsxExport: false
+  virtualization: true

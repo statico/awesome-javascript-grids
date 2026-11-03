@@ -46,6 +46,7 @@
 - [Highcharts Grid](https://www.highcharts.com/products/grid/) - A grid component for viewing, interacting with, and editing tabular data, available in free Lite and paid Pro versions.
 - [HighTable](https://github.com/hyparam/hightable/) - A dynamic windowed scrolling table component for React.
 - [Ignite UI](https://www.infragistics.com/products/ignite-ui) - A comprehensive library of React components for building modern, data-rich, and responsive web applications.
+- [Infinite Table](https://infinite-table.com) - A modern React DataGrid with pivoting, tree data, grouping, virtualization, and a declarative React API.
 - [jqGrid](http://guriddo.net/) - An Ajax-enabled JavaScript control that provides solutions for representing and manipulating tabular data on the web.
 - [jQWidgets](https://www.jqwidgets.com/) - A comprehensive JavaScript UI library with 70+ widgets built entirely from scratch.
 - [Jspreadsheet CE](https://bossanova.uk/jspreadsheet/v4) - A lightweight vanilla JavaScript plugin (formerly Jexcel) to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet softwares.
