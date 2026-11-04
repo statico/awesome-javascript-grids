@@ -6,11 +6,10 @@ npmPackage: fixed-data-table-2
 license: BSD-3-Clause License
 revenueModel: Free
 description: >
-  A continuation of Facebook's fixed-data-table, maintained by Schrodinger.
-  Fixed Data Table 2 is a React table component designed to handle thousands of
-  rows of data without sacrificing performance. It supports fixed headers,
-  footers, fixed and scrollable columns, variable row heights, column grouping,
-  column resizing, and touch scrolling.
+  A continuation of Facebook's fixed-data-table, maintained by Schrodinger. A
+  React table component built to handle thousands of rows without sacrificing
+  performance, with fixed headers and footers, fixed and scrollable columns,
+  variable row heights, column grouping, and column resizing.
 frameworks:
   react: true
 features:

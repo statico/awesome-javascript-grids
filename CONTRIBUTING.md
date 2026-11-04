@@ -28,7 +28,7 @@ These are the steps a maintainer follows when acting on an issue.
 4. Run `npx awesome-lint` to confirm the README still conforms to the Awesome list format.
 5. Commit, referencing the issue so it closes.
 
-All library descriptions are adapted from each package's home page.
+All library descriptions are adapted from each package's home page. Keep the YAML `description` to 297 characters or fewer; the build enforces this.
 
 ## Local development
 

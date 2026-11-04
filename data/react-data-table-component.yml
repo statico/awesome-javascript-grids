@@ -7,10 +7,9 @@ license: Apache License 2.0
 revenueModel: Free
 description: >
   A simple, declarative React data table component with built-in sorting,
-  pagination, row selection, and expandable rows. Designed for ease of use
-  with a clean API, it supports theming via styled-components, server-side
-  pagination and sorting, conditional row and cell styling, fixed headers,
-  column reordering, and responsive layouts out of the box.
+  pagination, row selection, and expandable rows. It supports theming via
+  styled-components, server-side pagination and sorting, conditional row and
+  cell styling, fixed headers, and column reordering.
 frameworks:
   react: true
 features:

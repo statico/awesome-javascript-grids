@@ -6,12 +6,10 @@ npmPackage: "@svgrid/grid"
 license: MIT or Commercial License
 revenueModel: Freemium
 description: >
-  A headless-first, Svelte 5-native data grid engine with a
-  batteries-included render component. The MIT core covers in-cell
-  editing, sorting, filtering, virtualization, row grouping and
-  aggregation, tree data, formulas, server-side data, and CSV export,
-  while pivot tables and Excel/PDF export are part of the paid
-  @svgrid/enterprise pack.
+  A headless-first, Svelte 5-native data grid engine with a batteries-included
+  render component. The MIT core covers editing, sorting, filtering,
+  virtualization, grouping, tree data, formulas, server-side data, and CSV
+  export; pivots and Excel/PDF export are in the paid enterprise pack.
 
 frameworks:
   svelte: true

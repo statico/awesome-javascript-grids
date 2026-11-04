@@ -6,11 +6,10 @@ npmPackage: "@fortune-sheet/react"
 license: MIT License
 revenueModel: Free
 description: >
-  A drop-in JavaScript spreadsheet library that provides rich
-  features like Excel and Google Sheets. It is a TypeScript rewrite of
-  Luckysheet with improved architecture, native React support, immer-based
-  state management, and no jQuery dependency. It supports collaborative editing,
-  formulas, conditional formatting, data verification, and more.
+  A drop-in JavaScript spreadsheet library with rich features like Excel and
+  Google Sheets. A TypeScript rewrite of Luckysheet with native React support
+  and no jQuery dependency, it supports collaborative editing, formulas,
+  conditional formatting, data verification, and more.
 frameworks:
   react: true
 features:

@@ -6,8 +6,10 @@ npmPackage: "@univerjs/core"
 license: Apache-2.0 License
 revenueModel: Freemium
 description: >
-  An isomorphic, full-stack framework for creating and editing
-  spreadsheets, documents, and presentations. Successor to Luckysheet.
+  An isomorphic, full-stack framework for creating and editing spreadsheets,
+  documents, and presentations. The successor to Luckysheet, it has a canvas-
+  based renderer, a formula engine that runs in Web Workers or on the server,
+  and a plugin architecture. Pro features are free for commercial use.
 frameworks:
   vanilla: true
   react: true

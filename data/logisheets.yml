@@ -7,12 +7,9 @@ license: MIT License
 revenueModel: Free
 description: >
   An out-of-the-box web spreadsheet component with a Rust and WebAssembly
-  engine that reads and writes real .xlsx files (preserving formulas and
-  styles) in the browser or Node.js. The ready-to-embed engine renders on
-  an OffscreenCanvas in a Web Worker, ships with multi-sheet tabs, live
-  formulas with dependency-tracked recalculation, find, CSV export, and a
-  "Blocks" structured-data system, and drops into any web app as a compiled
-  bundle.
+  engine that reads and writes real .xlsx files, preserving formulas and
+  styles, in the browser or Node.js. It renders in a Web Worker and ships with
+  multi-sheet tabs, live formulas, find, and CSV export.
 frameworks:
   vanilla: true
   svelte: true

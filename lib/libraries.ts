@@ -46,7 +46,7 @@ export type FrameworkName = keyof z.infer<typeof Frameworks>;
 // Validate and type the data we get from the YAML files in `data`.
 const ImportedYAMLInfo = z.object({
   title: z.string(),
-  description: z.string(),
+  description: z.string().trim().max(297), // length of the jqwidgets description
   homeUrl: z.union([URL, z.null()]),
   demoUrl: z.union([URL, z.null()]),
   githubRepo: z.union([GitHubRepo, z.null()]),

@@ -8,9 +8,8 @@ revenueModel: Commercial 30-day Trial
 description: >
   Kendo UI's Spreadsheet allows you to edit and visualize tabular data by
   using cell formatting options, styles, and themes. Sorting, filtering,
-  export and import features are ready-to-use out of the box. You can bind to
-  a data source, create custom editors, use cell comments, validation and
-  much more.
+  export, and import work out of the box, and you can bind to a data source,
+  create custom editors, and use cell comments and validation.
 frameworks:
   jquery: true
 features:
