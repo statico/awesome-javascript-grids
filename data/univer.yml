@@ -7,13 +7,7 @@ license: Apache-2.0 License
 revenueModel: Freemium
 description: >
   An isomorphic, full-stack framework for creating and editing
-  spreadsheets, documents, and presentations. The successor to Luckysheet, it
-  features a powerful canvas-based rendering engine, an extensive formula engine
-  that runs in Web Workers or on the server, and a highly extensible plugin
-  architecture. The open-source core covers editing, formulas, filtering,
-  sorting, conditional formatting, data validation, and more, while pro features
-  like XLSX import/export, pivot tables, collaborative editing, and printing are
-  available under a free-for-commercial-use license with paid upgrade plans.
+  spreadsheets, documents, and presentations. Successor to Luckysheet.
 frameworks:
   vanilla: true
   react: true
