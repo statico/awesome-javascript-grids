@@ -1,0 +1,46 @@
+title: ReUI Data Grid
+homeUrl: https://reui.io/components/data-grid
+demoUrl: https://reui.io/components/data-grid
+githubRepo: keenthemes/reui
+npmPackage: null
+license: MIT License
+revenueModel: Free
+description: >
+  shadcn/ui data grid built on TanStack Table, installed with the shadcn CLI.
+  Adds virtualization, spreadsheet-style cell selection with clipboard and fill
+  handle, inline editing, column pinning and resizing, tree rows, drag-and-drop
+  and server-side pagination.
+frameworks:
+  react: true
+features:
+  accessible: true
+  copyPaste: true
+  csvExport: false
+  customEditors: true
+  customFormatters: true
+  draggableRows: true
+  editable: true
+  fillDown: true
+  fillRight: true
+  filtering: true
+  formulas: false
+  freezableCols: true
+  headless: false
+  i18n: true
+  maintained: true
+  mergeCells: false
+  openSource: true
+  pagination: true
+  pdfExport: false
+  pivots: false
+  rangeSelection: true
+  resizableCols: true
+  responsive: false
+  rowGrouping: false
+  rowSelection: true
+  serverSide: true
+  sorting: true
+  trees: true
+  typescript: true
+  xlsxExport: false
+  virtualization: true
